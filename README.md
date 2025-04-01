@@ -24,3 +24,8 @@ You can also rename the executable script. If the executable should be called `h
 ```bash
 mv hello hola
 ```
+
+
+Om Namah Shivaya
+Om Namo Venkateshaya
+Om Sri Matre Namah
